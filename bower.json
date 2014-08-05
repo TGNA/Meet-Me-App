@@ -1,0 +1,16 @@
+{
+  "name": "Meet me App",
+  "version": "0.0.0",
+  "authors": [
+    "Oscar <oscarbc@me.com>"
+  ],
+  "description": "Client for Meet me ruby app",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
